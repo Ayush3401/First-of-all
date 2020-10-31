@@ -80,7 +80,7 @@ git commit -m "Uploaded <your-name>'s details to swc_team list"
 ```
 replacing `<your-name>` with your name.
 
-## Push changes to GitHub
+## Push changes to GitHub Happy Coding!
 
 Push your changes using the command `git push`:
 ```
